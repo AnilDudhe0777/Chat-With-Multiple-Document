@@ -13,3 +13,4 @@ langchain_google_genai
 google-generativeai
 chromadb
 faiss-cpu
+langchain-community
